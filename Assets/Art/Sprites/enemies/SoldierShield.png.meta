@@ -1,0 +1,3852 @@
+fileFormatVersion: 2
+guid: 976e4a0911c74ff4c9f59af515612e4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5848111008262213593
+    second: IDLE_0
+  - first:
+      213: 4475356257982156001
+    second: idle_1
+  - first:
+      213: 2364956585557079841
+    second: idle_2
+  - first:
+      213: -3336376190162552099
+    second: idle_3
+  - first:
+      213: 8682257418600614061
+    second: idle_4
+  - first:
+      213: -450316139383619766
+    second: idle_5
+  - first:
+      213: 4079668973144032040
+    second: run_1
+  - first:
+      213: -5004224350676162523
+    second: run2
+  - first:
+      213: 552259366788695051
+    second: runrun_3
+  - first:
+      213: 126102922816956778
+    second: run_4
+  - first:
+      213: -8224776475485885832
+    second: run_5
+  - first:
+      213: -1588767215986858999
+    second: SoldierShield_11
+  - first:
+      213: -8931149055083775126
+    second: SoldierShield_12
+  - first:
+      213: 7095814750797754620
+    second: SoldierShield_13
+  - first:
+      213: -5207709900132699466
+    second: SoldierShield_14
+  - first:
+      213: -3911800415661318085
+    second: SoldierShield_15
+  - first:
+      213: 6531528905536969580
+    second: SoldierShield_16
+  - first:
+      213: -8713786611400377007
+    second: SoldierShield_17
+  - first:
+      213: -353985876410110668
+    second: SoldierShield_18
+  - first:
+      213: -8391001676983277842
+    second: SoldierShield_19
+  - first:
+      213: 1206166428551550503
+    second: SoldierShield_20
+  - first:
+      213: -8319574916111160088
+    second: SoldierShield_21
+  - first:
+      213: -8361685091375565714
+    second: SoldierShield_22
+  - first:
+      213: 5322978986588331351
+    second: SoldierShield_23
+  - first:
+      213: 8274271473210934501
+    second: SoldierShield_24
+  - first:
+      213: 8329635473233053923
+    second: SoldierShield_25
+  - first:
+      213: -4451671040311635343
+    second: SoldierShield_26
+  - first:
+      213: 2102063681850064170
+    second: SoldierShield_27
+  - first:
+      213: 8419852090463769586
+    second: SoldierShield_28
+  - first:
+      213: 1733835006664999719
+    second: SoldierShield_29
+  - first:
+      213: -1246282850568125178
+    second: SoldierShield_30
+  - first:
+      213: -8173989508125204281
+    second: SoldierShield_31
+  - first:
+      213: 5106812347448874324
+    second: SoldierShield_32
+  - first:
+      213: 170976094728545205
+    second: SoldierShield_33
+  - first:
+      213: 4148288946766524469
+    second: SoldierShield_34
+  - first:
+      213: -5616426520357810905
+    second: SoldierShield_35
+  - first:
+      213: 7374186838432482352
+    second: SoldierShield_36
+  - first:
+      213: 8946333190425474038
+    second: SoldierShield_37
+  - first:
+      213: -6762155569275726777
+    second: SoldierShield_38
+  - first:
+      213: 5675594359600977668
+    second: SoldierShield_39
+  - first:
+      213: 6154058868635068195
+    second: SoldierShield_40
+  - first:
+      213: 5133798009337609579
+    second: SoldierShield_41
+  - first:
+      213: -7703486646542646703
+    second: SoldierShield_42
+  - first:
+      213: 3104081168662261241
+    second: SoldierShield_43
+  - first:
+      213: 8232445028693908117
+    second: SoldierShield_44
+  - first:
+      213: -4649328826656556186
+    second: SoldierShield_45
+  - first:
+      213: -1843695208786461548
+    second: SoldierShield_46
+  - first:
+      213: 5953329853550037935
+    second: SoldierShield_47
+  - first:
+      213: 7681659471520215621
+    second: SoldierShield_48
+  - first:
+      213: 2721547155512476505
+    second: SoldierShield_49
+  - first:
+      213: 3250122391630190014
+    second: SoldierShield_50
+  - first:
+      213: 2641801368747822297
+    second: SoldierShield_51
+  - first:
+      213: -214320955327538865
+    second: SoldierShield_52
+  - first:
+      213: 7237205049393739003
+    second: SoldierShield_53
+  - first:
+      213: 4854647935103658096
+    second: SoldierShield_54
+  - first:
+      213: 4040174102349597988
+    second: SoldierShield_55
+  - first:
+      213: -2549915206257626295
+    second: SoldierShield_56
+  - first:
+      213: 3603157016246765816
+    second: SoldierShield_57
+  - first:
+      213: -3339523647204774392
+    second: SoldierShield_58
+  - first:
+      213: -5127874753160108868
+    second: SoldierShield_59
+  - first:
+      213: -2953110942500269891
+    second: SoldierShield_60
+  - first:
+      213: -5562145782259712161
+    second: SoldierShield_61
+  - first:
+      213: -5919715750241498364
+    second: SoldierShield_62
+  - first:
+      213: 5107146951921303458
+    second: SoldierShield_63
+  - first:
+      213: -3082527486437049056
+    second: SoldierShield_64
+  - first:
+      213: 6739737824126500142
+    second: SoldierShield_65
+  - first:
+      213: -8376589504164014130
+    second: SoldierShield_66
+  - first:
+      213: 6639817747173374581
+    second: SoldierShield_67
+  - first:
+      213: -6354759285893007236
+    second: SoldierShield_68
+  - first:
+      213: 2605560400070677219
+    second: SoldierShield_69
+  - first:
+      213: -4193999765909134608
+    second: SoldierShield_70
+  - first:
+      213: -5343097030367855834
+    second: SoldierShield_71
+  - first:
+      213: 9204545909668975212
+    second: SoldierShield_72
+  - first:
+      213: -4382974050923970575
+    second: SoldierShield_73
+  - first:
+      213: -4426420127680799196
+    second: SoldierShield_74
+  - first:
+      213: -8493970417993179728
+    second: SoldierShield_75
+  - first:
+      213: 8615108080587935664
+    second: SoldierShield_76
+  - first:
+      213: -6279888615414376771
+    second: SoldierShield_77
+  - first:
+      213: 5399654114675344620
+    second: SoldierShield_78
+  - first:
+      213: 5203341084979574827
+    second: SoldierShield_79
+  - first:
+      213: -1261921943758193866
+    second: SoldierShield_80
+  - first:
+      213: -404490350923113101
+    second: SoldierShield_81
+  - first:
+      213: -2116390584451271423
+    second: SoldierShield_82
+  - first:
+      213: 5150150872517599389
+    second: SoldierShield_83
+  - first:
+      213: -8487473642899199390
+    second: SoldierShield_84
+  - first:
+      213: 1270193045118932223
+    second: SoldierShield_85
+  - first:
+      213: -2925704228154131420
+    second: SoldierShield_86
+  - first:
+      213: 1109592925691543494
+    second: SoldierShield_87
+  - first:
+      213: -4522951056861383893
+    second: SoldierShield_88
+  - first:
+      213: -5879315939086337160
+    second: SoldierShield_89
+  - first:
+      213: 1373840047789730630
+    second: SoldierShield_90
+  - first:
+      213: 8744410388414617154
+    second: SoldierShield_91
+  - first:
+      213: -8255397066728117192
+    second: SoldierShield_92
+  - first:
+      213: 4209003716497000766
+    second: SoldierShield_93
+  - first:
+      213: 4744118269070812345
+    second: SoldierShield_94
+  - first:
+      213: 5595510121043579399
+    second: SoldierShield_95
+  - first:
+      213: -8071797313635413370
+    second: SoldierShield_96
+  - first:
+      213: 679509396912666797
+    second: SoldierShield_97
+  - first:
+      213: -8725984946581030807
+    second: SoldierShield_98
+  - first:
+      213: 3517871184086801896
+    second: SoldierShield_99
+  - first:
+      213: 1729971302368325092
+    second: SoldierShield_100
+  - first:
+      213: 6731080925877944078
+    second: SoldierShield_101
+  - first:
+      213: 6681343130077574193
+    second: SoldierShield_102
+  - first:
+      213: -4327414087952211142
+    second: SoldierShield_103
+  - first:
+      213: 1841770728431250745
+    second: SoldierShield_104
+  - first:
+      213: 9086075595132125550
+    second: SoldierShield_105
+  - first:
+      213: 2049857081444404614
+    second: SoldierShield_106
+  - first:
+      213: 1963537410975015680
+    second: SoldierShield_107
+  - first:
+      213: 9006610734785508545
+    second: SoldierShield_108
+  - first:
+      213: 133189096523889989
+    second: SoldierShield_109
+  - first:
+      213: 334553755018275357
+    second: SoldierShield_110
+  - first:
+      213: 3075725862305402126
+    second: SoldierShield_111
+  - first:
+      213: -5989702260166532239
+    second: SoldierShield_112
+  - first:
+      213: 3430012436154002617
+    second: SoldierShield_113
+  - first:
+      213: -416862579183811930
+    second: SoldierShield_114
+  - first:
+      213: -710492570724597299
+    second: SoldierShield_115
+  - first:
+      213: 8140330266188320493
+    second: SoldierShield_116
+  - first:
+      213: 49336836573742789
+    second: SoldierShield_117
+  - first:
+      213: -1236440919997556196
+    second: SoldierShield_118
+  - first:
+      213: -7409408763065826897
+    second: SoldierShield_119
+  - first:
+      213: -3573582854807852773
+    second: SoldierShield_120
+  - first:
+      213: 7352294609067591449
+    second: SoldierShield_121
+  - first:
+      213: -3911103962844167374
+    second: SoldierShield_122
+  - first:
+      213: -677031739197727962
+    second: SoldierShield_123
+  - first:
+      213: -6164181267177546097
+    second: SoldierShield_124
+  - first:
+      213: -6498287036725963430
+    second: SoldierShield_125
+  - first:
+      213: 8853323612018937234
+    second: SoldierShield_126
+  - first:
+      213: 139236437054416153
+    second: SoldierShield_127
+  - first:
+      213: -7386146351342595325
+    second: SoldierShield_128
+  - first:
+      213: -2216338859646315752
+    second: SoldierShield_129
+  - first:
+      213: 6952607748962618894
+    second: SoldierShield_130
+  - first:
+      213: -1029344968649364719
+    second: SoldierShield_131
+  - first:
+      213: 5190755050716548178
+    second: SoldierShield_132
+  - first:
+      213: 5624209198888133541
+    second: SoldierShield_133
+  - first:
+      213: -9054670575617165075
+    second: SoldierShield_134
+  - first:
+      213: 1429142581079779884
+    second: SoldierShield_135
+  - first:
+      213: -4902735013249617201
+    second: SoldierShield_136
+  - first:
+      213: -8899115978581224634
+    second: SoldierShield_137
+  - first:
+      213: 3601933118224173027
+    second: SoldierShield_138
+  - first:
+      213: 2763069205067275979
+    second: SoldierShield_139
+  - first:
+      213: -9009962260130545064
+    second: SoldierShield_140
+  - first:
+      213: 7745930435425990871
+    second: SoldierShield_141
+  - first:
+      213: -1178744682030121644
+    second: SoldierShield_142
+  - first:
+      213: 8764714826272498082
+    second: SoldierShield_143
+  - first:
+      213: -6662776025533994938
+    second: SoldierShield_144
+  - first:
+      213: 5874376393579648530
+    second: SoldierShield_145
+  - first:
+      213: -7396857141251464676
+    second: SoldierShield_146
+  - first:
+      213: 1301612665312236519
+    second: SoldierShield_147
+  - first:
+      213: -349188161935834505
+    second: SoldierShield_148
+  - first:
+      213: 9198184985652227839
+    second: SoldierShield_149
+  - first:
+      213: 3656317225970173186
+    second: SoldierShield_150
+  - first:
+      213: -2980951701589647561
+    second: SoldierShield_151
+  - first:
+      213: -1889158956648739303
+    second: SoldierShield_152
+  - first:
+      213: 4604425598396585645
+    second: SoldierShield_153
+  - first:
+      213: 7343551122089715067
+    second: SoldierShield_154
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 897
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df45863af9a82150800000000000000
+      internalID: 5848111008262213593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 897
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec09502ec8ab1e30800000000000000
+      internalID: 4475356257982156001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 897
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b9570c7302d020800000000000000
+      internalID: 2364956585557079841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 897
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda3a4c288fc2b1d0800000000000000
+      internalID: -3336376190162552099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 897
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da880342f139d7870800000000000000
+      internalID: 8682257418600614061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 897
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ff96b6bd720c9f0800000000000000
+      internalID: -450316139383619766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 853
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823ce69e055ed9830800000000000000
+      internalID: 4079668973144032040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 853
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5286691777c6d8ab0800000000000000
+      internalID: -5004224350676162523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runrun_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 854
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b048255d7f40aa700800000000000000
+      internalID: 552259366788695051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 854
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69a4afa0f100c100800000000000000
+      internalID: 126102922816956778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 853
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aacad4f59bbdd80800000000000000
+      internalID: -8224776475485885832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 853
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904215c72a093f9e0800000000000000
+      internalID: -1588767215986858999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 853
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b7aafe04f2e0480800000000000000
+      internalID: -8931149055083775126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 853
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f64dabe5697260800000000000000
+      internalID: 7095814750797754620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 854
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b23e4dff6f7ab7b0800000000000000
+      internalID: -5207709900132699466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 854
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3028406f3e76b9c0800000000000000
+      internalID: -3911800415661318085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 853
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b1abe1fe6a4aa50800000000000000
+      internalID: 6531528905536969580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_17
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 853
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dfcea9e39621780800000000000000
+      internalID: -8713786611400377007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 812
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de11d88b3661bf0800000000000000
+      internalID: -353985876410110668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 812
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee664b5ae6c2d8b80800000000000000
+      internalID: -8391001676983277842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 812
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72611d9e9f92db010800000000000000
+      internalID: 1206166428551550503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 812
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca1fa51beea8c80800000000000000
+      internalID: -8319574916111160088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 771
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6431e426b355fb80800000000000000
+      internalID: -8361685091375565714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 771
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d577a9f250fd940800000000000000
+      internalID: 5322978986588331351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 771
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4c2efd01e14d270800000000000000
+      internalID: 8274271473210934501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 771
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e88c82a45fc89370800000000000000
+      internalID: 8329635473233053923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 771
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172d45956cc7832c0800000000000000
+      internalID: -4451671040311635343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_27
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 771
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d3ceb08c70c2d10800000000000000
+      internalID: 2102063681850064170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 722
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f35c61bdd259d470800000000000000
+      internalID: 8419852090463769586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 722
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723876790c1df0810800000000000000
+      internalID: 1733835006664999719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 722
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605c93ab95054bee0800000000000000
+      internalID: -1246282850568125178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 722
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c06d6a99d7209e80800000000000000
+      internalID: -8173989508125204281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 725
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d440e5ca0fd640800000000000000
+      internalID: 5106812347448874324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_33
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 727
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e06f2add6f5200800000000000000
+      internalID: 170976094728545205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 725
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530b2b981dea19930800000000000000
+      internalID: 4148288946766524469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 722
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d4dfa36d17e02b0800000000000000
+      internalID: -5616426520357810905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 722
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03401240cdf565660800000000000000
+      internalID: 7374186838432482352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 722
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3f89113a2c72c70800000000000000
+      internalID: 8946333190425474038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 679
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7441461565ff722a0800000000000000
+      internalID: -6762155569275726777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 679
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4071a3ddff2c3ce40800000000000000
+      internalID: 5675594359600977668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 679
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327e5d77feb976550800000000000000
+      internalID: 6154058868635068195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 679
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dfc27e61aee3740800000000000000
+      internalID: 5133798009337609579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 679
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1524cd4b5b7b71590800000000000000
+      internalID: -7703486646542646703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 638
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fde7147069e31b20800000000000000
+      internalID: 3104081168662261241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 638
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a1b30e2258f3270800000000000000
+      internalID: 8232445028693908117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 638
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bf62bb0144a7fb0800000000000000
+      internalID: -4649328826656556186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 638
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c7136d9f0e966e0800000000000000
+      internalID: -1843695208786461548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_47
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 635
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab049fa5f97e9250800000000000000
+      internalID: 5953329853550037935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_48
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 597
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423a75179cba9a60800000000000000
+      internalID: 7681659471520215621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_49
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 597
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953cbc3f7b0e4c520800000000000000
+      internalID: 2721547155512476505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 597
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb519a56811ca1d20800000000000000
+      internalID: 3250122391630190014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 597
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcca57195099a420800000000000000
+      internalID: 2641801368747822297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 597
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4997c50a34960df0800000000000000
+      internalID: -214320955327538865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_53
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 566
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4f6c7e5a7bf6460800000000000000
+      internalID: 7237205049393739003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_54
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 566
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078ef61739c2f5340800000000000000
+      internalID: 4854647935103658096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 594
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dc749b0f4911830800000000000000
+      internalID: 4040174102349597988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_56
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 597
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b5a341a1ec9cd0800000000000000
+      internalID: -2549915206257626295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_57
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 597
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f84857473cf00230800000000000000
+      internalID: 3603157016246765816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 563
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ea759bfe0a7a1d0800000000000000
+      internalID: -3339523647204774392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 588
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4a235a41126d8b0800000000000000
+      internalID: -5127874753160108868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 563
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0d3f97e317407d0800000000000000
+      internalID: -2953110942500269891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 575
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff87b61e94fc2b0800000000000000
+      internalID: -5562145782259712161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_62
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 576
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b029f93e1f8dda0800000000000000
+      internalID: -5919715750241498364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_63
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 569
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2affcfc081b30e640800000000000000
+      internalID: 5107146951921303458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 575
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dba804599a835d0800000000000000
+      internalID: -3082527486437049056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 513
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df256a7db588d50800000000000000
+      internalID: 6739737824126500142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 513
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d90f1a3060cb80800000000000000
+      internalID: -8376589504164014130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 513
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a7a91df0f552c50800000000000000
+      internalID: 6639817747173374581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_68
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 513
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c787b33391c5fc7a0800000000000000
+      internalID: -6354759285893007236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_69
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 513
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e29907016fc82420800000000000000
+      internalID: 2605560400070677219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_70
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 513
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f22ae40f6bebc5c0800000000000000
+      internalID: -4193999765909134608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_71
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bba705f8189d5b0800000000000000
+      internalID: -5343097030367855834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_72
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 513
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c621890bcbd1dbf70800000000000000
+      internalID: 9204545909668975212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_73
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 513
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fffbea925c8c23c0800000000000000
+      internalID: -4382974050923970575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 462
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e52f698523292c0800000000000000
+      internalID: -4426420127680799196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_75
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 462
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd17d668ea5f1a80800000000000000
+      internalID: -8493970417993179728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 462
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf8a0d87230f8770800000000000000
+      internalID: 8615108080587935664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 462
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6d439939a59d8a0800000000000000
+      internalID: -6279888615414376771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_78
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 462
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce443370fcc6fea40800000000000000
+      internalID: 5399654114675344620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_79
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 462
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b283767f52bf53840800000000000000
+      internalID: 5203341084979574827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_80
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 462
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bb5089da0cc7ee0800000000000000
+      internalID: -1261921943758193866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 420
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d972e3b26f26af0800000000000000
+      internalID: -404490350923113101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_82
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 418
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105fccff9f111a2e0800000000000000
+      internalID: -2116390584451271423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 418
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9064109ee2097740800000000000000
+      internalID: 5150150872517599389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_84
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 417
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aa08ab0bf663a80800000000000000
+      internalID: -8487473642899199390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_85
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 416
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff45c7248d1a0a110800000000000000
+      internalID: 1270193045118932223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_86
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 416
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cb30b618fc567d0800000000000000
+      internalID: -2925704228154131420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_87
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 415
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf712513e0166f00800000000000000
+      internalID: 1109592925691543494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_88
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 416
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23bc473aff3b31c0800000000000000
+      internalID: -4522951056861383893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_89
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 416
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b7778ad49786ea0800000000000000
+      internalID: -5879315939086337160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 371
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b66ba9e3cd01310800000000000000
+      internalID: 1373840047789730630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_91
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 374
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24650bb1be26a5970800000000000000
+      internalID: 8744410388414617154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_92
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 375
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c6ed55b10fe6d80800000000000000
+      internalID: -8255397066728117192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_93
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 374
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394a147492696a30800000000000000
+      internalID: 4209003716497000766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 326
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b428682e6e76d140800000000000000
+      internalID: 4744118269070812345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_95
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 331
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702d7ed0fce37ad40800000000000000
+      internalID: 5595510121043579399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_96
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 310
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6821fc50c173bff80800000000000000
+      internalID: -8071797313635413370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_97
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 289
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8f480423a1e6900800000000000000
+      internalID: 679509396912666797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_98
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 318
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968b1af5ce217e680800000000000000
+      internalID: -8725984946581030807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_99
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 331
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed9315143df1d030800000000000000
+      internalID: 3517871184086801896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_100
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 331
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eda845dbb7120810800000000000000
+      internalID: 1729971302368325092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_101
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 331
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fbc55707a996d50800000000000000
+      internalID: 6731080925877944078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_102
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 331
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13435c27d26e8bc50800000000000000
+      internalID: 6681343130077574193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_103
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 331
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33669b80dfe1f3c0800000000000000
+      internalID: -4327414087952211142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_104
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 294
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d6bd928b84f8910800000000000000
+      internalID: 1841770728431250745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_105
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61423a1d99381e70800000000000000
+      internalID: 9086075595132125550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_106
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 294
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d00dba72e827c10800000000000000
+      internalID: 2049857081444404614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_107
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 295
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0032b5c3fd2ef3b10800000000000000
+      internalID: 1963537410975015680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_108
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 302
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c43c158eb8edfc70800000000000000
+      internalID: 9006610734785508545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_109
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 306
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df24217ce29d100800000000000000
+      internalID: 133189096523889989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_110
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 294
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a232e1ed294a400800000000000000
+      internalID: 334553755018275357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_111
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 230
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d0239306c2faa20800000000000000
+      internalID: 3075725862305402126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_112
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 230
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1736b68778d40eca0800000000000000
+      internalID: -5989702260166532239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_113
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 230
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bca120432ad99f20800000000000000
+      internalID: 3430012436154002617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_114
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 230
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2889f51b1073af0800000000000000
+      internalID: -416862579183811930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_115
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 230
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1086275c2d326f0800000000000000
+      internalID: -710492570724597299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_116
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 230
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee048e6f3348f070800000000000000
+      internalID: 8140330266188320493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_117
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 230
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c15a67974fa000800000000000000
+      internalID: 49336836573742789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_118
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 230
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad9c1c88747dee0800000000000000
+      internalID: -1236440919997556196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_119
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 230
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa18bc99cfd7c2990800000000000000
+      internalID: -7409408763065826897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 183
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1960c3c355186ec0800000000000000
+      internalID: -3573582854807852773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_121
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 183
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9174e792ef8980660800000000000000
+      internalID: 7352294609067591449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_122
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 183
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2330d0feaa7f8b9c0800000000000000
+      internalID: -3911103962844167374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_123
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 183
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b54736833ba96f0800000000000000
+      internalID: -677031739197727962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_124
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed3c6fbcd647aa0800000000000000
+      internalID: -6164181267177546097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_125
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 129
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a555c679e5271d5a0800000000000000
+      internalID: -6498287036725963430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_126
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d87ff0be25dda70800000000000000
+      internalID: 8853323612018937234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_127
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 129
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9156b624dcaaee100800000000000000
+      internalID: 139236437054416153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_128
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 129
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3035d25e6032f7990800000000000000
+      internalID: -7386146351342595325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_129
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 129
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81313e0cc8bfd31e0800000000000000
+      internalID: -2216338859646315752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_130
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 129
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e8b8349ef9c7060800000000000000
+      internalID: 6952607748962618894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_131
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 129
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ba158643807b1f0800000000000000
+      internalID: -1029344968649364719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_132
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 129
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c46028734490840800000000000000
+      internalID: 5190755050716548178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_133
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 129
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a32632d7743d0e40800000000000000
+      internalID: 5624209198888133541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_134
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 85
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8382ec519575280800000000000000
+      internalID: -9054670575617165075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_135
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 85
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a25a60b9555d310800000000000000
+      internalID: 1429142581079779884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_136
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 85
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2f2633b7cf5fbb0800000000000000
+      internalID: -4902735013249617201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_137
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 85
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d9a1ca2dff7480800000000000000
+      internalID: -8899115978581224634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_138
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 45
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e787705613acf130800000000000000
+      internalID: 3601933118224173027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_139
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 85
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce1bd97dc4685620800000000000000
+      internalID: 2763069205067275979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 60
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8524e3daf0f26f280800000000000000
+      internalID: -9009962260130545064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_141
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 51
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8f37af0b21f7b60800000000000000
+      internalID: 7745930435425990871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_142
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 60
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db6baf4f144afe0800000000000000
+      internalID: -1178744682030121644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_143
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1629172b582a970800000000000000
+      internalID: 8764714826272498082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_144
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 56
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648ae0471801983a0800000000000000
+      internalID: -6662776025533994938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_145
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2165148c43af58150800000000000000
+      internalID: 5874376393579648530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_146
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122569ce95195990800000000000000
+      internalID: -7396857141251464676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_147
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3d517a2d1401210800000000000000
+      internalID: 1301612665312236519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_148
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 8
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7720b00873f672bf0800000000000000
+      internalID: -349188161935834505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_149
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffee128a28486af70800000000000000
+      internalID: 9198184985652227839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_150
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20508102529ddb230800000000000000
+      internalID: 3656317225970173186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_151
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f172e983881a6d0800000000000000
+      internalID: -2980951701589647561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_152
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e44b820fb58c5e0800000000000000
+      internalID: -1889158956648739303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_153
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 9
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6d42bbfa436ef30800000000000000
+      internalID: 4604425598396585645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoldierShield_154
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75241676d889e560800000000000000
+      internalID: 7343551122089715067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
